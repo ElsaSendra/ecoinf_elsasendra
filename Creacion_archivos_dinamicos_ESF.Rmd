@@ -9,11 +9,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![Individuo de ardilla roja (*Sciurus vulgaris*) en un pinar de Granada. Fotografía propia.](C:\\Users\\Elsa Sendra Felipe\\Desktop\\GRANADA-MASTER\\1ER SEMESTRE\\ECOINFORMÁTICA\\GIT Respositorio RStudio\\ecoinf_elsasendra2\\4.jpg)
+![Figura 1.Individuo de ardilla roja (*Sciurus vulgaris*) en un pinar de Granada. Fotografía propia.](C:\\Users\\Elsa Sendra Felipe\\Desktop\\GRANADA-MASTER\\1ER SEMESTRE\\ECOINFORMÁTICA\\GIT Respositorio RStudio\\ecoinf_elsasendra2\\4.jpg)
 
 # Breve descripción
 
-La ardilla roja es una especie de mamífero de hábitos forestales cuya distribución va fuertemente unida a la distribución de bosques y masas forestales, en especial de coníferas [(Piqué & Rodríguez-Teijeiro, 2015)](https://parcsnaturals.gencat.cat/web/.content/home/cadi_moixero/coneixeu_nos/centre_de_documentacio/fons_documental/publicacions_del_parc/revistes_i_butlletins/el_picot_negre_20/picot20gf.pdf). 
+La ardilla roja (Figura 1) es una especie de mamífero de hábitos forestales cuya distribución va fuertemente unida a la distribución de bosques y masas forestales, en especial de coníferas [(Piqué & Rodríguez-Teijeiro, 2015)](https://parcsnaturals.gencat.cat/web/.content/home/cadi_moixero/coneixeu_nos/centre_de_documentacio/fons_documental/publicacions_del_parc/revistes_i_butlletins/el_picot_negre_20/picot20gf.pdf). 
 
 ### Evolución de la especie
 
@@ -25,7 +25,20 @@ En adición al conteo de ejemplares vistos o el conteo de nidos, algunos autores
 
 ### Rastros de alimentación
 
-En orden a discernir los restos de piñas roídas por ardilla de las roídas por otras especies, se tuvo en cuenta, además del conjunto de rastros y su localización, el aspecto deshilachado de las piñas roídas. Las ardillas tienen la fuerza suficiente para arrancar las brácteas sin cortarlas royendo, como hacen otros roedores, donde el aspecto de la piña sería mucho más uniforme y de corte más apurado.
+En orden a discernir los restos de piñas roídas por ardilla de las roídas por otras especies, se tuvo en cuenta, además del conjunto de rastros y su localización (Tabla 1), el aspecto deshilachado de las piñas roídas. Las ardillas tienen la fuerza suficiente para arrancar las brácteas sin cortarlas royendo, como hacen otros roedores, donde el aspecto de la piña sería mucho más uniforme y de corte más apurado. En cuanto al flujo de trabajo del presente proyecto, se seguirá lo especificado en la Figura 2.
+
+Tabla 1. Datos de los muestreos realizados.
+
+| Zona  | Esp  | Piñas | Altura |
+|------:|:-----|-------|:------:|
+|   AG  |  Ph  |   102 |  900   |
+|   EJ  |  Pn  |   123 |  1000  |
+|   OI  |  Ps  |    58 |  1100  |
+
+
+
+![Figura 2. Diagrama de flujo realizado en la página web Diagrams.io](C:\Users\Elsa Sendra Felipe\Desktop\GRANADA-MASTER\1ER SEMESTRE\ECOINFORMÁTICA\GIT Respositorio RStudio\ecoinf_elsasendra2\Diagrama_flujo_ESF_ARDILLAS.jpg)
+
 
 -
 Piqué, J., Rodríguez-Teijeiro, J. D. (2012). L’esquirol vermell (Sciurus vulgaris). Part primera. Comportament i història natural. Picot Negre, Desembre, nº 20: 11-14.
