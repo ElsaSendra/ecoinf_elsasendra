@@ -1,0 +1,30 @@
+---
+title: '"La ardilla roja"'
+author: "Elsa Sendra Felipe"
+date: "2023-03-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+La ardilla roja es una especie de mamífero de hábitos forestales cuya distribución va fuertemente unida a la distribución de bosques y masas forestales, en especial de coníferas (Moleón & Gil-Sánchez, 2003; Lurz et al., 2005; Rocha et al., 2014). Esta especie ha sufrido una evolución positiva de su distribución en la provincia de Granada (Andalucía, España) en los últimos años:
+
+1.2. Siendo una especie muy común en el siglo XIX, unas décadas después estuvo a punto de desaparecer en casi todo el territorio granadino, resistiendo su presencia en las Sierras Subbéticas Orientales (norte de la provincia, Castril y limítrofes).
+
+You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
