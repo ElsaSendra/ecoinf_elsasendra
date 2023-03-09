@@ -39,6 +39,7 @@ Tabla 1. Datos de los muestreos realizados.
 
 ![Figura 2. Diagrama de flujo realizado en la página web Diagrams.io](C:\Users\Elsa Sendra Felipe\Desktop\GRANADA-MASTER\1ER SEMESTRE\ECOINFORMÁTICA\GIT Respositorio RStudio\ecoinf_elsasendra2\Diagrama_flujo_ESF_ARDILLAS.jpg)
 
+### Bibliografía
 
 -
 Piqué, J., Rodríguez-Teijeiro, J. D. (2012). L’esquirol vermell (Sciurus vulgaris). Part primera. Comportament i història natural. Picot Negre, Desembre, nº 20: 11-14.
