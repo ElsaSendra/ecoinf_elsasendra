@@ -17,18 +17,3 @@ La ardilla roja es una especie de mamífero de hábitos forestales cuya distribu
 
 En adición al conteo de ejemplares vistos o el conteo de nidos, algunos autores [(Lurz et al., 2005)](https://watermark.silverchair.com/769-1.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAswwggLIBgkqhkiG9w0BBwagggK5MIICtQIBADCCAq4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMsJgcwDHaSLjJ5kQrAgEQgIICf9EzissiqDSBFkqWlUEx5pPsPCYf-xz2UJzuSx1Po71iTr4jvE-2nrgRdYHdGdtWvdFQ8bbNBXjYE97Zpbnj-rGR67LiXnZ6oZb2skwmh0jhZflPbngF3l_3siJrpG4ELJ5AXxF6IRQJWaTX4pTuubF_7nsZ9jWI80owXevFjs7Dk7AlLXchl8QuubDgHlP7VMpfYdqvizjlz67gPhGD1l8GhOjFA0rNcA4JMf25Rdu237Cp9fESyi0OrVD817HHoPWi0cSaFBS3L55cT9BEi2su_kcdlVzO4AZejTS8zDxIK4MLScfD2x7W49g6jwW8Qzfl-PGTsHoQ98a2K7qUipf2T22ZYNynMxho28XcjD5BJtt4UB2xkO83QPDxKQcxVk5jOguq3xhq0HwAV6EIB_UMZzJ6oGKsVcAEQGM-zjGgC1atfDHVqMk8UvyeY4C5zGIEK9twJ3mEyOxP6E_PlwWo9DPqGWEtwJCM16GKbskEWt3qD6ZNV2jSSkfX79g8C2a_ZbqefynFHhFQcI0yPBEdGJGwRLEFPnASq-3bJFLSc56F93oFaFZE8KsGo8QRQGa_1At5tP4XnxYL90tnYtikbssQ_2LhHReeXobel0tWSfc_ITuxuRsZHjl-CLvKox4R_HNxsL75N1mg9-6jWJbazWGTPkkGiVDWMd6MseMdN9rNfExq_1z7K_DD9dd-eH8BU_WJKmlZfmBvtIATNjvvrBCUHn6foEIU7zJWS_IZGngaiJQm_Tsa_7wOBzJhnBY3v91ChZr7DJMah6s9tX3Cv0--OTbie5zqgAhgoQZGowM8w3H2FqALVpGDzzZPPBYHqjAzWpvFLu_8OXo7pw) sugieren que el método de detección de ardillas a través de piñas roídas en pinares mediterráneos puede ser un buen método para obtener presencia/ausencia de esta especie en zonas determinadas, encontrándose en algunos estudios este rastro de alimentación en los primeros cinco minutos de muestreo (Moleón & Gil-Sánchez, 2003). En orden a discernir los restos de piñas roídas por ardilla de las roídas por otras especies, se tuvo en cuenta, además del conjunto de rastros y su localización, el aspecto deshilachado de las piñas roídas. Las ardillas tienen la fuerza suficiente para arrancar las brácteas sin cortarlas royendo, como hacen otros roedores, donde el aspecto de la piña sería mucho más uniforme y de corte más apurado.
 
-You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
