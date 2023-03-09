@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![Individuo de ardilla roja (*Sciurus vulgaris*) en un pinar de Granada.](C:\\Users\\Elsa Sendra Felipe\\Desktop\\GRANADA-MASTER\\1ER SEMESTRE\\ECOINFORMÁTICA\\GIT Respositorio RStudio\\ecoinf_elsasendra2\\4.jpg)
+![Individuo de ardilla roja (*Sciurus vulgaris*) en un pinar de Granada. Fotografía propia.](C:\\Users\\Elsa Sendra Felipe\\Desktop\\GRANADA-MASTER\\1ER SEMESTRE\\ECOINFORMÁTICA\\GIT Respositorio RStudio\\ecoinf_elsasendra2\\4.jpg)
 
 La ardilla roja es una especie de mamífero de hábitos forestales cuya distribución va fuertemente unida a la distribución de bosques y masas forestales, en especial de coníferas [(Piqué & Rodríguez-Teijeiro, 2015)](https://parcsnaturals.gencat.cat/web/.content/home/cadi_moixero/coneixeu_nos/centre_de_documentacio/fons_documental/publicacions_del_parc/revistes_i_butlletins/el_picot_negre_20/picot20gf.pdf). Esta especie ha sufrido una evolución positiva de su distribución en la provincia de Granada (Andalucía, España) en los últimos años.
 
