@@ -35,7 +35,7 @@ Tabla 1. Datos de los muestreos realizados.
 |   EJ  |  Pn  |   123 |  1000  |
 |   OI  |  Ps  |    58 |  1100  |
 
-
+Con estos datos, podemos calcular varios factores: 
 
 ![Figura 2. Diagrama de flujo realizado en la página web Diagrams.io](C:\Users\Elsa Sendra Felipe\Desktop\GRANADA-MASTER\1ER SEMESTRE\ECOINFORMÁTICA\GIT Respositorio RStudio\ecoinf_elsasendra2\Diagrama_flujo_ESF_ARDILLAS.jpg)
 
