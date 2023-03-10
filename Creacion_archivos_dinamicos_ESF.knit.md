@@ -5,9 +5,7 @@ date: "2023-03-09"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 ![Figura 1.Individuo de ardilla roja (*Sciurus vulgaris*) en un pinar de Granada. Fotografía propia.](C:\\Users\\Elsa Sendra Felipe\\Desktop\\GRANADA-MASTER\\1ER SEMESTRE\\ECOINFORMÁTICA\\GIT Respositorio RStudio\\ecoinf_elsasendra2\\4.jpg)
 
