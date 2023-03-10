@@ -35,7 +35,22 @@ Tabla 1. Datos de los muestreos realizados.
 |   EJ  |  Pn  |   123 |  1000  |
 |   OI  |  Ps  |    58 |  1100  |
 
+Con una altitud media de 
+```{r, echo=FALSE}
+mean(900, 1000, 1100)
+```
 
+metros, se han encontrado un total de 
+
+```{r, echo=FALSE}
+sum(102, 123, 58, na.rm = FALSE)
+```
+piñas, habiendo una media de 
+
+```{r, echo=FALSE}
+mean(102, 123, 58)
+```
+piñas por parcela.
 
 ![Figura 2. Diagrama de flujo realizado en la página web Diagrams.io](C:\Users\Elsa Sendra Felipe\Desktop\GRANADA-MASTER\1ER SEMESTRE\ECOINFORMÁTICA\GIT Respositorio RStudio\ecoinf_elsasendra2\Diagrama_flujo_ESF_ARDILLAS.jpg)
 
